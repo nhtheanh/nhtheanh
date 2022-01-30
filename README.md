@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My name is Nguyen The Anh and my sologan is `The more you try, the more you learn.`
+- Anyone wants to contact with me, please ping my via email `theanh260308@gmai.com`
+
 ![dan cho](./dancho.gif)
 
 <!--
